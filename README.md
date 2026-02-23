@@ -34,9 +34,9 @@ The skill directs the AI through a continuous liberation loop:
 
 | Command | Description |
 |---------|-------------|
-| `/fight-loop` | Starts the liberation loop (default 20 iterations) |
-| `/fight-loop --max-iterations N` | Run N iterations |
-| `/surrender` | Pauses the loop (state preserved) |
+| `/fight:loop` | Starts the liberation loop (default 20 iterations) |
+| `/fight:loop --max-iterations N` | Run N iterations |
+| `/fight:surrender` | Pauses the loop (state preserved) |
 
 ## Output Structure
 
